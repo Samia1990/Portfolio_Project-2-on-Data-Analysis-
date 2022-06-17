@@ -1,6 +1,6 @@
 # Summary of Portfolio_Project
 ---
->## Task : Building a dashboard using Power BI to present the trend of the hotel revenue and parking allocation by year
+>## Task : Building a dashboard using Power BI to present the trend of the hotel revenue and parking allocation by year.
 
 ## Project Pipeline
 
